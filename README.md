@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/YujiTech/gamex)
   ![GitHub stars](https://img.shields.io/github/stars/YujiTech/gamex?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/YujiTech/gamex?style=social)
-[![Facebook Follow](https://img.shields.io/facebook/follow/YujiTech_?style=social)](https://facebook.com/intent/follow?screen_name=YujiTech_)
+[![Twitter Follow](https://img.shields.io/facebook/follow/YujiTech_?style=social)](https://twitterfacebook.com/intent/follow?screen_name=YujiTech_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
 
   <br />
@@ -11,9 +11,9 @@
 
   <h2 align="center">Grilli - Restaurant Website</h2>
 
-  Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Grilly by yuji responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://YujiTech.github.io/grilli/"><strong>➥ Live Demo</strong></a>
+  <a href="https://yujitech.github.io/Grilli-Website/"><strong>➥ Live Demo</strong></a>  
 
 </div>
 
