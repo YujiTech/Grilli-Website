@@ -14,7 +14,7 @@
   Grilly by yuji responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://grilli-website-koeh4q4yn-yujitechs-projects.vercel.a"><strong>➥ Live Demo</strong></a>  
-pp 
+ 
 </div>
 
 <br />
